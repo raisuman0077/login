@@ -1,0 +1,27 @@
+body{
+    background-color: #ffff;
+}
+.form-group{
+    display: flex;
+    background-color: #ffff;
+}
+.inputfield{
+    height: 100vh;
+    padding: 200px 155px 0 145px;
+    
+}
+.sideimage{
+    height: 100vh;
+    border-radius: 10px;
+}
+.submit-btn{
+    width: 30rem;
+    background-color: #FA8080;
+    border: none;
+    
+}
+.create-btn{
+    background-color: #E0E0E0;
+    border: none;
+    width: 30rem;
+}
