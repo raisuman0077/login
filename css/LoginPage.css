@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+    margin: o;
+    background-color: #ffff;
+}
+.submit-btn{
+    background-color: #FA8080;
+    border: none;
+    
+}
+.create-btn{
+    background-color: #E0E0E0;
+    border: none;
+}
+.user_details{
+    margin: 50px 66px 0px 88px;
+    padding: 50px 25px 0px 20px;
+    
+    
+}
+.input-group, .form-group{
+    padding-right: 100px;
+max-width: 95%;
+}
+img{
+    max-width: 100%;
+    max-height: auto;
+}
+
