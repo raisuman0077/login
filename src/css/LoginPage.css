@@ -1,5 +1,7 @@
-body{
-    width: 100%;
+html, body{
+    height: 100%;
+    margin: o;
+    background-color: #ffff;
 }
 .submit-btn{
     background-color: #FA8080;
@@ -10,17 +12,18 @@ body{
     background-color: #E0E0E0;
     border: none;
 }
-.sideimage{
-    height: 100vh;
-    width: 100%;
-    border-radius: 10px;
+.user_details{
+    margin: 50px 66px 0px 88px;
+    padding: 50px 25px 0px 20px;
+    
+    
 }
-.loginform{
-    width: inherit;
+.input-group, .form-group{
+    padding-right: 100px;
+max-width: 95%;
 }
-.user_card{
-    position: inherit;
-    width: auto;
-    margin-top: 100px;
-    background-color: white;
+img{
+    max-width: 100%;
+    max-height: auto;
 }
+
